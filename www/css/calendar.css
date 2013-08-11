@@ -1,0 +1,23 @@
+
+table {
+    padding: 10px;
+}
+
+tr {
+}
+
+th {
+    font-family: courier;
+    padding: 3px;
+}
+
+td {
+    font-family: courier;
+    font-size: 15px;
+    text-align: center;
+}
+
+.highlight {
+    background-color: red;
+    color: white;
+}
