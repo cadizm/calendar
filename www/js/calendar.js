@@ -3,7 +3,6 @@ $(function() {
     var flag = true;
 
     function toggle() {
-        flag = !flag;
         $('table').each(function(i, v) {
             if ($(this).hasClass('month')) {
                 var tr = $(this).find('tr');
